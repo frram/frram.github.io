@@ -10,9 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am a 5th year Ph.D. candidate in the Department of Mechanical and Aerospace Engineering at UC San Diego, advised by [Prof. Boris Kramer](https://kramer.ucsd.edu/). My current research is supervised by [Gian Luca Delzanno](https://scholar.google.com/citations?user=aJr9S0EAAAAJ&hl=en) and [Vadim Roytershteyn](https://scholar.google.com/citations?user=1Msby_cAAAAJ&hl=en) at the Los Alamos National Laboratory T5 division, where we aim to understand how cold electrons (protons) effect whistler waves (electromagnetic ion cyclotron waves) generated in Earth's inner magnetosphere. Another aspect of my research involves developing spectral techniques for solving kinetic plasma equations.
-
-I am planning to graduate soon-*ish* and am excited for the next steps! 
+In progress...
 
 [comment]: <> (Upcoming Events)
 
@@ -22,60 +20,5 @@ I am planning to graduate soon-*ish* and am excited for the next steps!
 
 Recent News
 ======
-**December 15-19, 2025** I attended my first [American Geophysical Union (AGU 2025)](https://www.agu.org/annual-meeting) annual meeting in New Orleans, Louisiana. I am on the organizing committee for *SM029: The low-energy/cold particle populations and the systems science of geospace* minisymposium. 
+**August 1, 2026** Starting work 
 
-**Sept 22-26, 2025** It was an honor to be an invited speaker at the [Machine Learning in Heliophysics workshop](https://ml-helio.github.io/) in Madrid, Spain. I presented on Bayesian inference and sensitivity analysis for operational solar wind forecasting ([link to paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003555)). 
-
-**August 18-22, 2025** I attended the [Computational Physics School for Fusion Research (CPS-FR 2025)](https://sites.google.com/psfc.mit.edu/cps-fr2025/home?authuser=0) at MIT Plasma Science and Fusion Center! I learned about high performance computing and statistical/machine learning concepts for plasma research. Many thanks to Christina Rea, Paul Bonoli, and Jessica Coco for organizing the event and student travel support. 
-
-**June 22-27, 2025** It was great to attend the [GEM workshop](https://gemworkshop.org/) in Des Moines, Iowa. I presented a poster on secondary drift-driven instabilities caused by whistler waves using quasilinear theory. The electrostatic secondary-instabilities transfer energy from whistler waves to cold electrons. This mechanism potentially explains the discrepancy between simulated and observed parallel-propagating whistler wave amplitudes. 
-
-**June 1st, 2025** I was awarded the *[2024-2025 Outstanding PhD Student of the Year Award](https://www.linkedin.com/feed/update/urn:li:activity:7345888932733009921/)* in the Department of Mechanical and Aerospace Engineering-- Many thanks to all my collaborators and mentors!
-
-**May 14, 2025** I passed my PhD candidacy exam! I am very grateful for my PhD committee members: Prof. Boris Kramer, Dr. Gian Luca Delzanno, Prof. Christopher Holland, Prof. Alexey Arefiev, and Prof. Matthias Morzfeld. Extra thanks to my mentor Gian Luca Delzanno for flying out from Los Alamos to attend the meeting and shaping my PhD research. It's been a fantastic ride so far.
-
-**Sept 16-20, 2024** I enjoyed attending the [CRC International Summer School 2024](https://www.sfb1294.de/events/event/spring-school-2024) near Hamburg, Germany, where I learned about the latest uncertainty quantification techniques. 
-
-**Sept 9-13, 2024** I attended the [Model Reduction and Surrogate Modeling (MORE)](https://more2024.sciencesconf.org/) conference which was held at my home university at UCSD.
-
-**Aug 11-16, 2024** I attended the [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshop in Juneau, Alaska, where I presented my latest work on the spectral plasma solver. 
-
-**Aug 1-9, 2024** It was great to attend the [15th International Symposium for Space Simulations (ISSS-15) and the 16th International Workshop on the Interrelationship between Plasma Experiments in the Laboratory and in Space (IPELS-16)](https://plan.events.mpg.de/event/152/) hosted by the Max Planck Institute for Plasma Physics (IPP) in Garching, Germany. I presented about my latest work with LANL (T5) on developing kinetic solvers via velocity spectral methods.
-
-**June 24-Aug 16, 2024** I was a Heliophysics researcher in [FDL-X geoeffectiveness continuous learning research group](https://frontierdevelopmentlab.org/fdl2024) developing real time forecasts of geomagnetic ground perturbations with quantified uncertainties. My contribution is focusing on quantifying interpolation uncertainties via Gaussian process regression. 
-
-**June 5, 2024** I was awarded the *2023-2024 MAE PhD Outstanding Teaching Assistant of the Year Award* for the Systems and Signals course in W24. 
-
-**April 2-May 30, 2024** It was great to return to the Los Alamos National Laboratory (LANL) [T5 Applied Mathematics and Plasma Physics division](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php) as a computational science graduate student. I will be continuing to work with Gian Luca Delzanno and Oleksandr Koshkarov on various extensions/modifications of the LANL spectral plasma solver.
-
-**April 9, 2024** It was a pleasure to give a seminar talk at the [Machine Learning for Planetary Science and Space Physics (ML4PSP)](https://ml4psp.github.io/schedule.html) on [Bayesian Inference and Global Sensitivity Analysis for Ambient Solar Wind Prediction](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003555). The seminar recording is added to [youtube](https://www.youtube.com/watch?v=sR7qybTdw1k&themeRefresh=1).  
-
-**Jan 3-March 15, 2024** I was the teaching assistant of [*Systems and Signals*](https://catalog.ucsd.edu/courses/MAE.html) (MAE143A) course taught by Prof. Boris Kramer. I held weekly office hours and taught the 4th hour lecture for 190 undergraduate students. The course covered linear time invariant systems, Laplace transforms, Fourier transforms, and PID control. Here is a playful Jupyter notebooks to illustrate the application of the Discrete Fourier Transform to filter images (e.g. [Oppenheimer/Monroe](https://github.com/opaliss/Signals_and_Systems_143A/blob/main/W7%20DFT.pdf)) and audio (e.g. [Elton John's "Don't Go Breaking My Heart"](https://github.com/opaliss/Signals_and_Systems_143A/blob/main/W8%20DFT%20(continued).pdf)).
-
-**Feb 19-22, 2024** I enjoyed attending the Institute for Mathematical and Statistical Innovation (IMSI) [*Computational Challenges and Optimization in Kinetic Plasma Physics*](https://www.imsi.institute/activities/computational-challenges-and-optimization-in-kinetic-plasma-physics/) workshop at the University of Chicago. I learned about the computational challenges and latest developments in simulating plasma in laboratory fusion devices. 
-
-**Dec 8, 2023** I was awarded the 2023 best presentation award along with [Hunter Akin](https://hunterakins.github.io/) at the CaCAO (ChAos, Computation, Analysis and Optimization) group, which is lead by Prof. [Matti Morzfeld](https://igppweb.ucsd.edu/~mmorzfeld/) at Scripps Institution of Oceanography. My presentation was a two-part overview of reduced-order modeling in the context of uncertainty quantification!
-
-**Aug 20-25, 2023** I attended the [10th International Congress on Industrial and Applied Mathematics (ICIAM23)](https://iciam2023.org/) in Tokyo, Japan, where I presented in the "Space Weather: Modeling, Surrogates and Uncertainty Quantification" mini-symposium on parameter estimation and global sensitivity analysis of ambient solar wind models. 
-
-**June 5-July 28, 2023** It was great to participate in the [Los Alamos National Laboratory Space Weather Summer School](https://www.lanl.gov/projects/national-security-education-center/space-earth-center/space-weather-school/index.php), which offered a variety of lectures in space weather (mainly focusing on magnetospheric physics). During the summer school, I got to work with Gian Luca Delzanno (LANL), Oleksandr Koshkarov (LANL), and Federico Halpern (General Atomics) on the anti-symmetric formulation of spectral methods for electrostatic plasma equations. I learned a lot about spectral methods, the Hamiltonian structure of the Vlasov-Poisson system, and classic electrostatic instabilities.
-
-**June 11-16, 2023** I presented about my [latest work](https://arxiv.org/abs/2305.08009) in parameter estimation and global sensitivity analysis of ambient solar wind models at [Geospace Environment Modeling (GEM)](https://gemworkshop.org/).
-
-**May 10, 2023** Our work (with Boris Kramer) appeared in a SIAM News Blog post on [Speeding Up Solar Wind Forecasts with Reduced-order Modeling](https://sinews.siam.org/Details-Page/speeding-up-solar-wind-forecasts-with-reduced-order-modeling).
-
-**April 6-7, 2023** It was great to attend the [USACM Workshop on Establishing Benchmarks for Data-Driven Modeling of Physical Systems](https://sites.google.com/view/usacmdatabenchmarks/home) at University of Southern California (USC), where I presented about magnetohydrodynamic solar wind modeling and their corresponding mathematical challenges, i.e. high-dimensionality, complex nonlinearity, shock dynamics, advection-dominated phenomena, which make such models a great candidate for benchmark problems in model reduction and uncertainty quantification.
-
-**March 9-10, 2023**: I attended the [Space Weather with Quantified Uncertainties Spring Meeting 2023](https://linaresr.scripts.mit.edu/swqu/) and got to visit the MIT Haystack observatory! 
-
-**Dec 22, 2022** I passed my Departmental Qualifying Exam (DQE) in computational fluid dynamics, fluid instabilities, and model order reduction. Many thanks to my advisor Prof. Boris Kramer, and committee members Prof. Oliver Schmidt and Prof. David Saintillan. 
-
-**Sept 26-30, 2022**: I gave a talk at the mini-symposium on *Data-driven, physics-informed methods for computational science* at [Society for Industrial and Applied Mathematics (SIAM) conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22); My talk was about ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372).
-
-**June 19-July 1, 2022**: I attended [Geospace Environment Modeling (GEM)](https://gemworkshop.org/) and [Solar Heliospheric and INterplanetary Environment (SHINE)](https://helioshine.org/) workshops at Waikiki, HI, where I presented a poster about ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372).
-
-**May 21, 2022**: It was great to attend [Southern California Applied Mathematics Symposium (SOCAMS) conference](https://www.socams.org/) sponsored by SIAM and hosted by Harvey Mudd; where I presented about ["Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference"](https://arxiv.org/abs/2203.13372).
-
-**Oct 17-19, 2021**: Attended the [NextProf Pathfinder](https://nextprof.engin.umich.edu/) workshop at the University of Michigan.
-
-**Oct 1, 2021**: I moved to UCSD to pursue a PhD in Aerospace Engineering!
