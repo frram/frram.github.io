@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Opal Issan"
+title                    : "Fredy R. Ramirez"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://opaliss.github.io/opalissan/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://opaliss.github.io/frram/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               :
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Opal Issan"
+  name             : "Fredy R. Ramirez"
   avatar           : "imag.JPG"
-  bio              : "Ph.D. Student in Mechanical and Aerospace Engineering"
+  bio              : "Postdoctoral Scholar in Mechanical and Aerospace Engineering"
   location         :
   employer         : "University of California, San Diego"
-  googlescholar    : "https://scholar.google.com/citations?user=eEIe19oAAAAJ&hl=en&oi=sra"
-  email            : "oissan.ucsd.edu"
-  researchgate     : "https://www.researchgate.net/profile/Opal-Issan"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=18wBkdYAAAAJ"
+  email            : "f3ramire.ucsd.edu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -95,14 +95,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "opaliss"
+  github           : "frram"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "opal-issan-412a9a13b/"
-  orcid            : "https://orcid.org/0000-0003-3137-5537"
+  linkedin         : "fredy-ramirez-9a55a8bb/"
+  orcid            : "https://orcid.org/0009-0001-6994-3192"
   pinterest        :
   soundcloud       :
   stackoverflow    :
