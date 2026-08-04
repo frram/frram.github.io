@@ -11,7 +11,7 @@ excerpt: "Preprints"
 
 {% include base_path %}
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=sdR-LZ4AAAAJ&hl=en) and preprints on [arXiv](https://arxiv.org/search/?query=Hyeonghun+Kim&searchtype=all&abstracts=show&order=-announced_date_first&size=50).
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&hl=en&user=18wBkdYAAAAJ).
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
@@ -19,9 +19,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 Journal Articles
 ======
-**Kim, H.** and Kramer, B. (2025). Physically consistent predictive reduced-order modeling by enhancing Operator Inference with state constraints. _Journal of Computational Physics, 543_, 114418. DOI: [10.1016/j.jcp.2025.114418](https://www.sciencedirect.com/science/article/pii/S0021999125007004).
+**F.R. Ramirez** and P.H. Diamond. (2025). Staircases of Passive and Active Scalar Concentration in Cellular Flow. _Phys. Plasmas_ 32, 072302. DOI: [10.1063/5.0260948](https://pubs.aip.org/aip/pop/article/32/7/072302/3352169/Staircases-of-passive-and-active-scalar).
 
-Kang, S., **Kim, H.**, and Kramer, B. (2026). Parametric Operator Inference to Simulate the Purging Process in Semiconductor Manufacturing. _IEEE Transactions on Semiconductor Manufacturing_, Early Access. DOI: [10.1109/TSM.2026.3694257](https://ieeexplore.ieee.org/document/11523106).
+**F.R. Ramirez**, and P.H. Diamond. (2025). Layered Patterns of Active Scalar Fields in a Two-Dimensional Magnetohydrodynamic System. _Phys. Rev. E_, 111, 055107. DOI: [10.1103/PhysRevE.111.055107](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.055107).
+
+**F.R. Ramirez**, and P.H. Diamond. (2024). Staircase Resiliency in a Fluctuating Cellular Array. _Phys. Rev. E_, 109, 025209. DOI: [10.1103/PhysRevE.109.025209](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.025209).
 
 
 <!-- Preprints -->
