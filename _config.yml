@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fredy R. Ramirez"
+title                    : "Fredy's Webpage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Fredy R. Ramirez"
 description              : &description "personal description"
-url                      : https://frram.github.io/frram/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://frram.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               :
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "frram/frram.github.io"
+teaser                   :  #"C7917-1_37.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,12 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Fredy R. Ramirez"
-  avatar           : "imag.JPG"
+  avatar           : "fredy_r.jpg"
   bio              : "Postdoctoral Scholar in Mechanical and Aerospace Engineering"
-  location         :
-  employer         : "University of California, San Diego"
+  location         : "University of California San Diego"
+  employer         :
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=18wBkdYAAAAJ"
-  email            : "f3ramire.ucsd.edu"
+  email            : "f3ramire@uscd.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -99,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "fredy-ramirez-9a55a8bb/"
-  orcid            : "https://orcid.org/0009-0001-6994-3192"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    :
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -174,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  software:
+  teaching:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -183,11 +184,8 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  cv:
-    output: true
-    permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
@@ -211,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _software
+  # _teaching
   - scope:
       path: ""
-      type: software
+      type: teaching
     values:
       layout: single
       author_profile: true
@@ -311,3 +309,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-midnight

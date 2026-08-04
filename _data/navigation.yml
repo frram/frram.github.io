@@ -3,9 +3,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Codes"
-    url: /codes/
+  - title: "Talks"
+    url: /talks/    
 
+  - title: "Teaching"
+    url: /teaching/    
+    
+  # - title: "Portfolio"
+    # url: /portfolio/
+        
+  # - title: "Blog Posts"
+    # url: /year-archive/
+    
   - title: "CV"
-    url: https://opaliss.github.io/opalissan//opal_issan_CV_2025.pdf
-
+    url: /cv/
+    
+  # - title: "Guide"
+    # url: /markdown/
